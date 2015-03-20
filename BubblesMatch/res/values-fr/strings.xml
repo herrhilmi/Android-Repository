@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bubbles Match</string>
+    <string name="play">Jouer</string>
+    <string name="help">Aide</string>
+    <string name="score">Score</string>
+    <string name="level">Niveau</string>
+    <string name="levelone">Niveau 1</string>
+    <string name="leveltwo">Niveau 2</string>
+    <string name="levelthree">Niveau 3</string>
+    <string name="levelfour">Niveau 4</string>
+    <string name="levelfive">Niveau 5</string>
+    <string name="levelsix">Niveau 6</string>
+    <string name="vide">0</string>
+    <string name="bestscore">Meilleurs Scores</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="about">A propos</string>
+    <string name="celebrate">Congratulation! vous avez un nouveau score.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="replayContent">Voulez-vous recommencer la partie ?</string>
+    <string name="recover">Voulez-vous recharger l\'ancienne partie ?</string>
+    <string name="rules">Règles ?</string>
+    <string name="how">Comment jouer?</string>
+    <string name="rulescontent">Il faut atteindre le score minimal de passage de niveau dans le temps imparti pour passer au niveau suivant. Plus le niveau est élevé, plus il y a de couleurs différentes en jeu. Cliquer de manière erronée sur une case vide diminue le temps restant. </string>
+    <string name="howcontent"> L’objectif du jeu est de détruire des bulles de même couleur en cliquant sur le point de connexion entre les bulles. Ce point de connexion doit être une case vide. </string>
+
+</resources>
